@@ -1,0 +1,17 @@
+{
+"companyName": "com.solvd.kids.hygiene",
+"productName": "Happy Hygiene",
+"productVersion": "1.0",
+"dataUrl": "Happy Hygiene WebGL.data.unityweb",
+"wasmCodeUrl": "Happy Hygiene WebGL.wasm.code.unityweb",
+"wasmFrameworkUrl": "Happy Hygiene WebGL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Happy Hygiene WebGL.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.14f1"
+}
